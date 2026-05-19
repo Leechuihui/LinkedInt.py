@@ -14,7 +14,7 @@
 
 * LinkedInt by Vincent Yiu (@vysecurity): https://www.vincentyiu.com | https://vysecurity.rocks
 * Original Scraper by Danny Chrastil (@DisK0nn3cT): https://github.com/DisK0nn3cT/linkedin-gatherer
-
+* Developed update by Leechuihui version 2.0
 Contributors:
 
 * Leesoh
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Fixes:
 * Temporary fix for location field missing
 
-**[v1.1 27-03-2021]**
+**[v2.0 19-05-2026]**
 
 Fixes:
 * Fixed the authentication flow
@@ -45,7 +45,6 @@ Additions:
 * Embedded all images into the HTML file to allow for offline viewing.
 * Added credits
 
-**[v0.1 BETA 12-07-2017]**
 
 Additions:
 * UI Updates
