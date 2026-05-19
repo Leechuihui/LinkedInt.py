@@ -27,29 +27,7 @@ cd LinkedInt
 pip install -r requirements.txt
 ```
 
-# Change Log
 
-**[v1.1 01-05-2021]**
-
-Fixes:
-* Temporary fix for location field missing
-
-**[v2.0 19-05-2026]**
-
-Fixes:
-* Fixed the authentication flow
-* Fixed hunter API demo key - removed
-
-Additions:
-* Added better looking missing image value for the profiles with no photo.
-* Embedded all images into the HTML file to allow for offline viewing.
-* Added credits
-
-
-Additions:
-* UI Updates
-* Constrain to company filters
-* Addition of Hunter for e-mail prediction
 
 # Usage
 
