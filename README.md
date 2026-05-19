@@ -72,6 +72,7 @@ Using General Motors as the target as they have a bug bounty program.
 
 Providing you with Linkedin Intelligence
 Author: Vincent Yiu (@vysec, @vysecurity)
+Update by leechuihui 19,May 2026
 Original version by @DisK0nn3cT
 [*] Enter search Keywords (use quotes for more precise results)
 "General Motors"
