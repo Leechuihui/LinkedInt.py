@@ -4,7 +4,7 @@
 
 # Sponsor Open Source Tooling
 
-* Feel free to sponsor me for maintaining the tool: https://github.com/sponsors/vysecurity
+
 
 # Disclaimer
 
@@ -12,8 +12,7 @@
 
 # Authors
 
-* LinkedInt by Vincent Yiu (@vysecurity): https://www.vincentyiu.com | https://vysecurity.rocks
-* Original Scraper by Danny Chrastil (@DisK0nn3cT): https://github.com/DisK0nn3cT/linkedin-gatherer
+
 * Developed update by Leechuihui version 2.0
 Contributors:
 
