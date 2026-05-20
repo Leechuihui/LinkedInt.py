@@ -21,7 +21,7 @@ Contributors:
 
 # Installation
 ```
-git clone https://github.com/vysecurity/LinkedInt
+git clone https://github.com/Leechuihui/LinkedInt.py.git
 cd LinkedInt
 pip install -r requirements.txt
 ```
@@ -47,7 +47,7 @@ Using General Motors as the target as they have a bug bounty program.
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝
 
 Providing you with Linkedin Intelligence
-Author: Vincent Yiu (@vysec, @vysecurity)
+Author: Vincent Yiu 2021
 Update by leechuihui 19,May 2026
 Original version by @DisK0nn3cT
 [*] Enter search Keywords (use quotes for more precise results)
