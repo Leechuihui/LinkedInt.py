@@ -1,3 +1,15 @@
+# 🔗 LinkedInt.py
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3fb950?logo=python&logoColor=white)](https://python.org)
+[![LinkedIn](https://img.shields.io/badge/Source-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Tor Ready](https://img.shields.io/badge/Network-Tor_Ready-8b5cf6?logo=tor-project&logoColor=white)](https://torproject.org)
+
+Fork of [vysecurity/LinkedInt](https://github.com/vysecurity/LinkedInt) — LinkedIn OSINT enumerator, updated 2026.
+
+<p align="center">
+<img src="https://github.com/vysecurity/LinkedInt/blob/master/asset/linkedint.png?raw=true">
+</p>
+
 <p align="center">
 <img src="https://github.com/vysecurity/LinkedInt/blob/master/asset/linkedint.png?raw=true">
 </p>
